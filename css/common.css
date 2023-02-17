@@ -23,15 +23,15 @@ button {
   cursor: pointer;
 }
 
-/* ul {
+ul {
   list-style: none;
-}
+} 
 
-li {
+.main-item {
   margin-bottom: 50px;
 }
 
-a {
+.main-link {
   margin-bottom: 20px;
   text-decoration: none;
 
@@ -55,10 +55,10 @@ a {
   cursor: pointer;
 }
 
-a:hover {
+.main-link:hover {
   box-shadow: -2px -2px 5px #fff, 2px 2px 5px #babecc;
 }
 
-a:active {
+.main-link:active {
   box-shadow: inset 1px 1px 2px #babecc, inset -1px -1px 2px #fff;
-} */
+} 
