@@ -36,3 +36,4 @@ const instance = basicLightbox.create(`
   instance.show();
 };
 galleryContainerEl.addEventListener("click", onContainerClick);
+
